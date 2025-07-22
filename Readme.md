@@ -18,13 +18,13 @@
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - 🧑‍💻 I'm currently working on Power BI visual analytics dashboards
-- 📊 View my Power BI project [here](https://your-project-link.com)
-- 👯 I’m looking to collaborate on **a dashboard automation project** – [collab link](https://your-collab-project-link.com)
-- 🤝 I’m looking for help with a **data scraping and analysis pipeline** – [project help link](https://your-help-project-link.com)
+- 📊 View my Power BI project [here](https://github.com/Ashish848kumar/Power-BI-HR-Dashboard)
+- 👯 I’m looking to collaborate on **a dashboard automation project**
+- 🤝 I’m looking for help with a **data scraping and analysis pipeline**
 - 🌱 I’m currently learning **SQL, MYSQL, JIRA**
 - 💬 Ask me about **PYTHON, POWER BI, and TABLUE**
 - 📫 Reach me at: ashwaniashish12@gmail.com
-- 👨‍💻 All of my projects are available at: [your portfolio](https://yourportfolio.com)
+- 👨‍💻 All of my projects are available at: [your portfolio](https://github.com/Ashish848kumar)
 - 📝 I regularly write articles on [your blog](https://yourblog.com)
 - 📄 Know about my experiences: [View Resume](https://drive.google.com/file/d/1r8yAyYZIYipluz3br-vP7jsnhS4M69SS/view?usp=sharin)
 - ⚡ Fun fact: I think I’m funny — until the compiler disagrees. 😄
