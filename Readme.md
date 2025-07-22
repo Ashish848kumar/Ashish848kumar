@@ -2,10 +2,18 @@
 # Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" /> I am Ashish Kumar
 
 <p align="center">
-<a href="https://x.com/ashish_kumar__0" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="30" width="30" /></a>&nbsp;
-<a href="(https://www.linkedin.com/in/ashish-kumar-3279551a1/)" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="30" /></a>&nbsp;
-<a href="http://discord.com/users/yourdiscord#0000" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="discord" height="40" width="30" /></a>&nbsp;
-<a href="https://www.buymeacoffee.com/yourprofile"><img align="center" alt="Buy me a Coffee" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/buymeacoffee.svg" /></a>
+  <a href="https://x.com/ashish_kumar__0" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="Twitter" width="30" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/ashish-kumar-3279551a1/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30" />
+  </a>&nbsp;&nbsp;
+  <a href="https://discord.com/users/yourdiscord#0000" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png" alt="Discord" width="30" />
+  </a>&nbsp;&nbsp;
+  <a href="(https://www.instagram.com/ashish_kumar.____/)" target="_blank">
+    <img src="https://th.bing.com/th/id/OIP.A_QLZ7Y9nBwaWnkhCbvGmQHaHZ?w=196&h=195&c=7&r=0&o=7&dpr=1.1&pid=1.7&rm=3" alt="Instagram" width="30" />
+  </a>
 </p>
 
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
@@ -25,7 +33,8 @@
 
 ### 🧑‍🔧 Technologies I Work With:
 
-<p align="center"> <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" width="55" height="55"/> <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="55" height="55"/> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="55" height="55"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" alt="Excel" width="55" height="55"/> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="SQL" width="55" height="55"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="55" height="55"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" alt="Notion" width="55" height="55"/> <img src="https://cdn.worldvectorlogo.com/logos/ibm.svg" alt="IBM Cognos" width="55" height="55"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/SPSS_logo.svg/512px-SPSS_logo.svg.png" alt="SPSS" width="55" height="55"/> </p>
+<p align="center"> <img src="https://th.bing.com/th?q=Power+BI+Logo+Transparent+Background&w=120&h=120&c=1&rs=1&qlt=90&cb=1&dpr=1.1&pid=InlineBlock&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1&mw=247" alt="Power BI" width="55" height="55"/> <img 
+src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="55" height="55"/> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="55" height="55"/> <img src="https://th.bing.com/th/id/OIP.YVhaqfiJPeovdTJMjVWgNQHaD4?w=330&h=180&c=7&r=0&o=7&dpr=1.1&pid=1.7&rm=3" alt="Excel" width="55" height="55"/> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="SQL" width="55" height="55"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="55" height="55"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" alt="Notion" width="55" height="55"/> <img src="https://cdn.worldvectorlogo.com/logos/ibm.svg" alt="IBM Cognos" width="55" height="55"/> <img src="https://th.bing.com/th?q=SPSS+Software+Logo&w=120&h=120&c=1&rs=1&qlt=70&o=7&cb=1&dpr=1.1&pid=InlineBlock&rm=3&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1&mw=247" alt="SPSS" width="55" height="55"/> </p>
 ---
 
 ### 📊 GitHub Stats:
