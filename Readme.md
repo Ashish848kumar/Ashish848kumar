@@ -18,8 +18,8 @@
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - 🧑‍💻 I'm currently pursuing **MBA** in **Business Analytics and Marketing** and working as an **Business Analyst Intern at Evalueserve**
-- 📊 View my Power BI project [here](https://github.com/Ashish848kumar/Power-BI-HR-Dashboard)
-- 👯 I’m looking to collaborate on **a dashboard automation project**
+- 📊 View my Project [here](https://github.com/Ashish848kumar/Power-BI-HR-Dashboard)
+- 👯 I’m looking to collaborate on **Projects** and get **Jobs**
 - 🤝 I’m looking for help with a **data scraping and analysis pipeline**
 - 🌱 I’m currently learning **SQL, MYSQL, JIRA**
 - 💬 Ask me about **PYTHON, POWER BI, and TABLUE**
