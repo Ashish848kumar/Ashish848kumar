@@ -26,7 +26,7 @@
 - 📫 Reach me at: ashwaniashish12@gmail.com
 - 👨‍💻 All of my projects are available at: [your portfolio](https://github.com/Ashish848kumar)
 - 📝 I regularly write articles on [your blog](https://yourblog.com)
-- 📄 Know about my experiences: [View Resume](https://drive.google.com/file/d/1r8yAyYZIYipluz3br-vP7jsnhS4M69SS/view?usp=sharin)
+- 📄 Know about my experiences: [View Resume](https://drive.google.com/file/d/1vNKFJ9piLERkT91Z7haRqoo4yuFi7auz/view?usp=sharing)
 - ⚡ Fun fact: I think I’m funny — until the compiler disagrees. 😄
 
 ### 🧑‍🔧 Technologies I Work With:
